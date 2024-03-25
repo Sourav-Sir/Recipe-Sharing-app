@@ -6,19 +6,19 @@ Welcome to the Recipe Sharing App! This application allows users to discover, sh
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png){:height="400px" width="600px"}
+![Home Page](screenshots/home_page.png)
 
 ### Add Recipe Page (using Postman POST method)
 
-![Add Recipe Page](screenshots/add_recipe_page.png){:height="400px" width="600px"}
+![Add Recipe Page](screenshots/add_recipe_page.png)
 
 ### Get Recipe Page (using Postman GET method)
 
-![Add Recipe Page](screenshots/get_recipe_page.png){:height="400px" width="600px"}
+![Add Recipe Page](screenshots/get_recipe_page.png)
 
 ### Search Results Page (using Postman GET method)
 
-![Search Results Page](screenshots/search_results_page.png){:height="400px" width="600px"}
+![Search Results Page](screenshots/search_results_page.png)
 
 ## Installation and Usage
 
@@ -32,6 +32,23 @@ Welcome to the Recipe Sharing App! This application allows users to discover, sh
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/recipe-sharing-app.git
+   git clone https://github.com/Sourav-Sir/recipe-sharing-app.git
+ `
+
+2. Navigate to the project directory:
+```bash
+cd recipe-sharing-app
 ```
+
+3. Install dependencies:
+```bash
+Install dependencies:
+```
+
+4. Start the server:
+```bash
+npm start
+```
+
+5. Access the application in your web browser at http://localhost:3000.
 
